@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/optical/static/css/main.ed785360.chunk.css",
-    "main.js": "/optical/static/js/main.6de8219c.chunk.js",
-    "main.js.map": "/optical/static/js/main.6de8219c.chunk.js.map",
+    "main.css": "/optical/static/css/main.4b5ac449.chunk.css",
+    "main.js": "/optical/static/js/main.b1188bb0.chunk.js",
+    "main.js.map": "/optical/static/js/main.b1188bb0.chunk.js.map",
     "runtime-main.js": "/optical/static/js/runtime-main.f9153910.js",
     "runtime-main.js.map": "/optical/static/js/runtime-main.f9153910.js.map",
     "static/js/2.cfde5aad.chunk.js": "/optical/static/js/2.cfde5aad.chunk.js",
     "static/js/2.cfde5aad.chunk.js.map": "/optical/static/js/2.cfde5aad.chunk.js.map",
     "index.html": "/optical/index.html",
-    "static/css/main.ed785360.chunk.css.map": "/optical/static/css/main.ed785360.chunk.css.map",
+    "static/css/main.4b5ac449.chunk.css.map": "/optical/static/css/main.4b5ac449.chunk.css.map",
     "static/js/2.cfde5aad.chunk.js.LICENSE.txt": "/optical/static/js/2.cfde5aad.chunk.js.LICENSE.txt",
     "static/media/style.css": "/optical/static/media/red-textured-background-vintage-continental-c08caf71de70463703cbbeb4fc8f2a22.87154437.jpg",
     "static/media/لوجو فرزة.e4140b01.jpg": "/optical/static/media/لوجو فرزة.e4140b01.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9153910.js",
     "static/js/2.cfde5aad.chunk.js",
-    "static/css/main.ed785360.chunk.css",
-    "static/js/main.6de8219c.chunk.js"
+    "static/css/main.4b5ac449.chunk.css",
+    "static/js/main.b1188bb0.chunk.js"
   ]
 }
