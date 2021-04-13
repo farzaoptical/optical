@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/optical/static/css/main.66eb9c51.chunk.css",
-    "main.js": "/optical/static/js/main.b1188bb0.chunk.js",
-    "main.js.map": "/optical/static/js/main.b1188bb0.chunk.js.map",
+    "main.js": "/optical/static/js/main.b09dcc14.chunk.js",
+    "main.js.map": "/optical/static/js/main.b09dcc14.chunk.js.map",
     "runtime-main.js": "/optical/static/js/runtime-main.f9153910.js",
     "runtime-main.js.map": "/optical/static/js/runtime-main.f9153910.js.map",
-    "static/js/2.cfde5aad.chunk.js": "/optical/static/js/2.cfde5aad.chunk.js",
-    "static/js/2.cfde5aad.chunk.js.map": "/optical/static/js/2.cfde5aad.chunk.js.map",
+    "static/js/2.05cb0182.chunk.js": "/optical/static/js/2.05cb0182.chunk.js",
+    "static/js/2.05cb0182.chunk.js.map": "/optical/static/js/2.05cb0182.chunk.js.map",
     "index.html": "/optical/index.html",
     "static/css/main.66eb9c51.chunk.css.map": "/optical/static/css/main.66eb9c51.chunk.css.map",
-    "static/js/2.cfde5aad.chunk.js.LICENSE.txt": "/optical/static/js/2.cfde5aad.chunk.js.LICENSE.txt",
+    "static/js/2.05cb0182.chunk.js.LICENSE.txt": "/optical/static/js/2.05cb0182.chunk.js.LICENSE.txt",
     "static/media/style.css": "/optical/static/media/red-textured-background-vintage-continental-c08caf71de70463703cbbeb4fc8f2a22.87154437.jpg",
     "static/media/لوجو فرزة.e4140b01.jpg": "/optical/static/media/لوجو فرزة.e4140b01.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f9153910.js",
-    "static/js/2.cfde5aad.chunk.js",
+    "static/js/2.05cb0182.chunk.js",
     "static/css/main.66eb9c51.chunk.css",
-    "static/js/main.b1188bb0.chunk.js"
+    "static/js/main.b09dcc14.chunk.js"
   ]
 }
