@@ -10,7 +10,7 @@ function App() {
       <p className="place">{branche["إسـم الـمـحــل"]}</p>
       <p>{branche.العنوان}</p>
       <div className="branches-info">
-        <a href={"tel:" + branche["رقم الهاتف"]}>
+        <a href={branche["رقم الهاتف"]}>
           <i className="fab fa-whatsapp"></i>
         </a>
         <a href={"tel:" + branche["رقم  الجوال"]}>
