@@ -11,7 +11,7 @@ html,
   align-items: center;
   font-size: 1.2em;
   color: whitesmoke;
-  background: url("./red-textured-background-vintage-continental-c08caf71de70463703cbbeb4fc8f2a22.jpg");
+  background: url("./red-textured-background-vintage-continental-c08caf71de70463703cbbeb4fc8f2a22.jpg.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,7 +41,7 @@ main {
   margin-top: 40px;
   width: 60%;
   padding: 20px 20px;
-  background-color: rgba(112, 112, 112, 0.637);
+  background-color: rgba(125, 017, 051, 0.637);
   border-radius: 20px;
 }
 .branches-container:last-child {
