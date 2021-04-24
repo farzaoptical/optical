@@ -53,7 +53,7 @@ main {
   margin-bottom: 20px;
 }
 .place {
-  color: #d2a65f;
+  color: rgb(125, 017, 051);
   margin-bottom: 10px;
 }
 
@@ -61,7 +61,7 @@ main {
   margin: 35px 0;
 }
 .branches-info a {
-  background-color: rgb(192, 35, 35);
+  background-color: rgb(125, 017, 051);
   color: white;
   padding: 15px;
   border-radius: 50%;
